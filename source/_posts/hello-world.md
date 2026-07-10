@@ -2,7 +2,7 @@
 title: 自我介绍
 date: 2026-07-10
 categories: 个人
-banner: image/1.webp
+cover: image/1.webp
 ---
 
 # 你好，我是 MilesMorr  
