@@ -1,38 +1,21 @@
+# 👋 你好，我是 [你的名字]
+ 
+> 一个热爱物理的学生
+
 ---
-title: Hello World
+
+## 🌱 最近在学
+- 广义相对论
+- 原子物理（很初步）
+- 数学分析
+
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+## 📫 怎么找到我
+- 邮箱：caniloveyou2024@outlook.com
+- QQ: 166986662
 
-### Create a new post
+---
 
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+## ✨ 一句小格言
+> 世界上只有一种真正的英雄主义，那就是在认清生活的真相后依然热爱生活。
