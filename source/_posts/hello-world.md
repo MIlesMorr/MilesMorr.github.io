@@ -1,6 +1,7 @@
 ---
 title: 自我介绍
 date: 2026-07-10
+cover: image/1.webp
 ---
 
 # 👋 你好，我是 MilesMorr
