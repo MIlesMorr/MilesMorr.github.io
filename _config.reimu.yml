@@ -689,7 +689,7 @@ live2d:
 
 # Experimental
 live2d_widgets:
-  enable: false
+  enable: true
   position: left # left or right
 
 # Please turn on pjax to use this feature
