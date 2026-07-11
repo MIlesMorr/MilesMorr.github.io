@@ -432,8 +432,7 @@ giscus:
   emitMetadata: 0
   inputPosition: bottom
   theme: light
-    light:
-    dark: dark
+  dark: dark
 
 # https://utteranc.es
 utterances:
