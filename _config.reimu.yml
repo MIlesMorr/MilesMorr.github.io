@@ -422,18 +422,18 @@ gitalk:
 # https://giscus.app/zh-CN
 giscus:
   enable: true
-  repo:MilesMorr/blog-comments
-  repoId:R_kgDOTVcwFw
-  category:General
-  categoryId:DIC_kwDOTVcwF84DA-k4
+  repo: MilesMorr/blog-comments
+  repoId: R_kgDOTVcwFw
+  category: General
+  categoryId: DIC_kwDOTVcwF84DA-k4
   mapping: pathname
   strict: 0
   reactionsEnabled: 1
   emitMetadata: 0
   inputPosition: bottom
-  theme:light
+  theme: light
     light:
-    dark:dark
+    dark: dark
 
 # https://utteranc.es
 utterances:
