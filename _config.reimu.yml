@@ -500,7 +500,7 @@ generator_search:
 preloader:
   enable: true
   text:
-    zh-CN: 少女祈祷中...
+    zh-CN: 哎呀呀...
     zh-TW: 少女祈禱中...
     en: Loading...
     ja: 少女祈祷中...
@@ -576,7 +576,7 @@ home_categories:
 
 # whether to display the notification when the article is outdated
 outdate:
-  enable: false
+  enable: true
   daysAgo: 180 # The number of days after which the article is considered outdated
   message:
     en: This article was last updated on {time}. Please note that the content may no longer be applicable.
@@ -688,7 +688,7 @@ live2d:
 
 # Experimental
 live2d_widgets:
-  enable: true
+  enable: false
   position: left # left or right
 
 # Please turn on pjax to use this feature
