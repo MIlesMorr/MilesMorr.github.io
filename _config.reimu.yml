@@ -422,7 +422,7 @@ gitalk:
 # https://giscus.app/zh-CN
 giscus:
   enable: true
-  repo: MilesMorr/blog-comments
+  repo: MIlesMorr/blog-comments
   repoId: R_kgDOTVcwFw
   category: General
   categoryId: DIC_kwDOTVcwF84DA-k4
