@@ -2545,9 +2545,6 @@ pre .emphasis {
 #live2d-plugin {
   z-index: 98 !important;
 }
-#waifu-toggle {
-  z-index: 1;
-}
 .sidebar-top {
   position: fixed;
   bottom: 30px;
