@@ -638,11 +638,11 @@ top:
 share:
   - facebook
   - twitter
-  # - bluesky
-  # - linkedin
-  # - reddit
-  # - weibo
-  # - qq
+  - bluesky
+  - linkedin
+  - reddit
+  - weibo
+  - qq
   - weixin
 
 ########################################
