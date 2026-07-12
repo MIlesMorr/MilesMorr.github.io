@@ -389,24 +389,6 @@ body [data-aos='zoom-in'] {
 .icon-github:before {
   content: '\e619';
 }
-.icon-facebook:before {
-  content: '\e60e';
-}
-.icon-twitter:before {
-  content: '\e62a';
-}
-.icon-bluesky:before {
-  content: '\e64b';
-}
-.icon-linkedin:before {
-  content: '\e614';
-}
-.icon-weibo:before {
-  content: '\e62c';
-}
-.icon-reddit:before {
-  content: '\e61c';
-}
 .sidebar-toc-btn:before {
   font-family: 'iconfont';
   content: '\e633';

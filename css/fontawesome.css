@@ -140,24 +140,6 @@
 .icon-github:before {
   content: '\f09b';
 }
-.icon-facebook:before {
-  content: '\f09a';
-}
-.icon-twitter:before {
-  content: '\e61b';
-}
-.icon-bluesky:before {
-  content: '\e671';
-}
-.icon-linkedin:before {
-  content: '\f08c';
-}
-.icon-weibo:before {
-  content: '\f18a';
-}
-.icon-reddit:before {
-  content: '\f1a1';
-}
 .sidebar-toc-btn:before {
   font-family: var(--font-icon);
   content: '\f0e8';
