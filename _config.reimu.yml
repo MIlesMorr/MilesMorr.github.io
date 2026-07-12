@@ -642,8 +642,8 @@ share:
   # - linkedin
   # - reddit
   # - weibo
-  # - qq
-  # - weixin
+  - qq
+  - weixin
 
 ########################################
 # Experimental features
@@ -938,19 +938,3 @@ vendor:
 jquery: https://cdn.bootcdn.net/ajax/libs/jquery/3.6.4/jquery.min.js
 
 
-# 社交链接
-social:
-  github: https://github.com/MilesMorr
-  
-  # 支持 bluesky, tiktok, weixin, qq 等[reference:2][reference:3]
-
-# 一键分享按钮
-share:
-  - bluesky
-  - twitter
-  - qq
-  - weixin
-
-# 链接预览
-open_graph:
-  enable: true
