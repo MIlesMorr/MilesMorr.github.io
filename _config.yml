@@ -102,3 +102,17 @@ theme: reimu
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# 社交链接
+social:
+  github: https://github.com/你的用户名
+  bilibili: https://space.bilibili.com/你的用户名
+
+# 一键分享
+share:
+  - twitter
+  - facebook
+
+# 链接预览
+open_graph:
+  enable: true
