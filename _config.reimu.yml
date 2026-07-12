@@ -636,12 +636,12 @@ top:
     mask: true # whether to use the images as a mask
 
 share:
-  - facebook
-  - twitter
-  - bluesky
-  - linkedin
-  - reddit
-  - weibo
+  # - facebook
+  # - twitter
+  # - bluesky
+  # - linkedin
+  # - reddit
+  # - weibo
   - qq
   - weixin
 
