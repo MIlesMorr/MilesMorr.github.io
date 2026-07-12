@@ -536,7 +536,7 @@ animation:
 
 # see https://github.com/D-Sketon/mouse-firework
 firework:
-  enable: true
+  enable: false
   disable_on_mobile: false
   options:
     excludeElements: ["a", "button"]
@@ -636,13 +636,13 @@ top:
     mask: true # whether to use the images as a mask
 
 share:
-  # - facebook
-  # - twitter
+  - facebook
+  - twitter
   # - bluesky
   # - linkedin
   # - reddit
   # - weibo
-  - qq
+  # - qq
   - weixin
 
 ########################################
