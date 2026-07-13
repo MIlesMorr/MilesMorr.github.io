@@ -15,10 +15,10 @@ menu:
     icon: f0c1
   - name: about
     url: /about
-    icon: /image/user-solid-full.svg
+    icon: 
   - name: friend
     url: /friend
-    icon: /image/link-solid-full.svg
+    icon: 
 
 subtitle:
   typing:
@@ -33,9 +33,9 @@ subtitle:
     backDelay: 2000             # time before backspacing (milliseconds)
     startDelay: 300             # time before typing starts (milliseconds)
     loop: true                  # loop through the strings
-    shuffle: true               # randomize the order of strings
+    shuffle: false               # randomize the order of strings
     showCursor: true            # show the typing cursor
-    cursorChar: "|"             # character for cursor
+    cursorChar: "_"             # character for cursor
     smartBackspace: false       # only backspace what doesn't match the previous string
 
 banner: "/image/blue eye.webp" # which means themes/reimu/source/images/banner.webp
