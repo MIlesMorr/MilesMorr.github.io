@@ -11,14 +11,14 @@ menu:
     icon: /image/house-solid-full.svg
 # default use taichi icon, you can use a hexadecimal representation of fontawesome or icon_font, like 'f0c1'
   - name: archives
-    url: /image/inbox-solid-full.svg
-    icon: archive
+    url: /archives
+    icon: /image/inbox-solid-full.svg
   - name: about
-    url: /image/user-solid-full.svg
-    icon: user
+    url: /about
+    icon: /image/user-solid-full.svg
   - name: friend
     url: /friend
-    icon: /image/user-solid-full.svg
+    icon: /image/link-solid-full.svg
 
 subtitle:
   typing:
