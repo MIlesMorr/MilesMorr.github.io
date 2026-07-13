@@ -4,12 +4,12 @@
 
 # Site
 title: 我的小窝
-subtitle: ''
-description: ''
-keywords:
+# subtitle: ''
+# description: ''
+# keywords:
 author: MilesMorr
 language: zh-CN
-timezone: ''
+# timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
