@@ -8,7 +8,7 @@ theme_config_check: true
 menu:
   - name: home
     url: /
-    icon: fa fa-home
+    icon: fa-solid fa-house
 # default use taichi icon, you can use a hexadecimal representation of fontawesome or icon_font, like 'f0c1'
   - name: archives
     url: /archives
