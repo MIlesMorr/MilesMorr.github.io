@@ -21,12 +21,12 @@ menu:
 
 subtitle:
   typing:
-    enable: false
+    enable: true
     strings:
-      # - Sentence 1
-      # - Sentence 2
-      # - Sentence 3
-      # - Sentence 4
+      - 我是子标题
+      - 我也是子标题
+      - 我和他们一样
+      - 我们都是子标题
     typeSpeed: 100              # typing speed (milliseconds/character)
     backSpeed: 50               # backspacing speed (milliseconds/character)
     backDelay: 2000             # time before backspacing (milliseconds)
