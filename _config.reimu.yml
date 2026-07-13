@@ -18,6 +18,7 @@ menu:
   - name: friend
     url: /friend
     icon:
+  - language: / || fa fa-language
 
 subtitle:
   typing:
