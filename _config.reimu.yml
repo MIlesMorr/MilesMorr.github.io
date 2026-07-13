@@ -18,7 +18,6 @@ menu:
   - name: friend
     url: /friend
     icon:
-  - language: / || fa fa-language
 
 subtitle:
   typing:
@@ -178,7 +177,7 @@ summary:
 
 # Internationalization
 i18n:
-  enable: false
+  enable: true
   type: [page, post]
   generator: [archive, category, tag, index]
   languages: [zh-CN, en]
