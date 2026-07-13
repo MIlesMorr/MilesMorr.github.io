@@ -744,16 +744,16 @@ material_theme:
 
 internal_theme:
   light:
-    --red-0: "#4A90D9"          # 主色 - 明亮蓝
-    --red-1: "#6BA3E0"          # 辅助蓝
-    --red-2: "#8FB8E8"          # 浅蓝
-    --red-3: "#B5CDF0"          # 更浅蓝
-    --red-4: "#D4E3F7"          # 极浅蓝
-    --red-5: "#EBF2FC"          # 背景浅蓝
-    --red-5-5: "#F2F7FD"        # 更淡背景
-    --red-6: "#F8FAFE"          # 最淡背景
-    --color-red-6-shadow: "rgba(74, 144, 217, 0.6)"   # 蓝色阴影
-    --color-red-3-shadow: "rgba(74, 144, 217, 0.3)"   # 蓝色阴影
+    --red-0: "#2B7AEA"          # 主色 - 更鲜艳的蓝
+    --red-1: "#4A9AF5"          # 辅助蓝
+    --red-2: "#6DB0F7"          # 浅蓝
+    --red-3: "#9AC8F9"          # 更浅蓝
+    --red-4: "#C2DDFB"          # 极浅蓝
+    --red-5: "#E5F0FD"          # 背景浅蓝
+    --red-5-5: "#F2F8FE"        # 更淡背景
+    --red-6: "#F9FBFE"          # 最淡背景
+    --color-red-6-shadow: "rgba(43, 122, 234, 0.6)"   # 阴影（更浓郁）
+    --color-red-3-shadow: "rgba(43, 122, 234, 0.3)"   # 阴影
 
     --highlight-nav: "#f5f7fa"
     --highlight-scrollbar: "#d6dce6"
@@ -774,10 +774,10 @@ internal_theme:
     --highlight-addition-bg: "#f0fff4"
 
   dark:
-    --red-4: "rgba(74, 144, 217, 0.5)"    # 蓝色透明
-    --red-5: "rgba(74, 144, 217, 0.15)"   # 蓝色透明
-    --red-5-5: "rgba(74, 144, 217, 0.05)" # 蓝色透明
-    --red-6: "rgba(74, 144, 217, 0.2)"    # 蓝色透明
+    --red-4: "rgba(43, 122, 234, 0.5)"    # 蓝色透明（加深）
+    --red-5: "rgba(43, 122, 234, 0.15)"   # 蓝色透明
+    --red-5-5: "rgba(43, 122, 234, 0.05)" # 蓝色透明
+    --red-6: "rgba(43, 122, 234, 0.2)"    # 蓝色透明
 
     --highlight-nav: "#222830"
     --highlight-scrollbar: "#454d59"
