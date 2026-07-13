@@ -180,7 +180,7 @@ i18n:
   enable: true
   type: [page, post]
   generator: [archive, category, tag, index]
-  languages: [zh-CN, en]
+  languages: [zh-CN,zh-TW, en]
 
 ########################################
 # CSS
