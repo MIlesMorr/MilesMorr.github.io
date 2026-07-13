@@ -537,7 +537,7 @@ animation:
 
 # see https://github.com/D-Sketon/mouse-firework
 firework:
-  enable: false
+  enable: true
   disable_on_mobile: false
   options:
     excludeElements: ["a", "button"]
@@ -680,7 +680,7 @@ pace:
 
 # Experimental
 service_worker:
-  enable: false
+  enable: true
 
 # Experimental
 live2d:
@@ -939,5 +939,4 @@ vendor:
 
 jquery: https://cdn.bootcdn.net/ajax/libs/jquery/3.6.4/jquery.min.js
 
-custom_css:
-  - /css/custom.css
+
