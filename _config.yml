@@ -105,3 +105,8 @@ theme: reimu
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+  
+theme_config:
+internal_theme:
+  light:
+    --red-0: "#4A90D9"
