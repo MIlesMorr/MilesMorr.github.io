@@ -8,17 +8,17 @@ theme_config_check: true
 menu:
   - name: home
     url: /
-    icon: fa-f015
+    icon: f015
 # default use taichi icon, you can use a hexadecimal representation of fontawesome or icon_font, like 'f0c1'
   - name: archives
     url: /archives
-    icon: fa-f187
+    icon: f187
   - name: about
     url: /about
-    icon: fa-f007
+    icon: f007
   - name: friend
     url: /friend
-    icon: fa-f0c1
+    icon: f0c1
 
 subtitle:
   typing:
