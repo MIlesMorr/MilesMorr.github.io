@@ -8,7 +8,10 @@ title: 我的小窝
 # description: ''
 # keywords:
 author: MilesMorr
-language: zh-CN
+language: 
+  - zh-CN
+  - zh-TW
+  - en
 # timezone: ''
 
 # URL
