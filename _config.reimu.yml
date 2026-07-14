@@ -255,13 +255,13 @@ dark_mode:
 
 # need https://github.com/D-Sketon/hexo-renderer-markdown-it-plus
 math:
-  enable: false
+  enable: true
   # If you don't want to use it, please set `autoRender` to true to enable browser rendering
   katex:
     enable: true
     autoRender: false # whether to render the math in the browser, disabled by default
   mathjax:
-    enable: false
+    enable: true
     options: # see https://docs.mathjax.org/en/latest/web/configuration.html
       {
         tex:
